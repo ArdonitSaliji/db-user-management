@@ -1,5 +1,3 @@
-
-# Simple-User-Management-System-with-PHP-MySQL
 So let’s start implementing the user management system with PHP and MySQL. Before we begin, take a look at files structure for this example.
 
 <div class="script-details">
@@ -34,7 +32,6 @@ So let’s start implementing the user management system with PHP and MySQL. Bef
 ![Profile](https://user-images.githubusercontent.com/59913782/76703770-3c713580-66fe-11ea-92a7-7ce2e426ab62.png)
 ![2020-03-15_203003](https://user-images.githubusercontent.com/59913782/76703775-5ad73100-66fe-11ea-856a-80bf259c281b.png)
 
-
 <div class='install-script'>
   <h3>How to Install</h3>
   <ul>
@@ -44,21 +41,13 @@ So let’s start implementing the user management system with PHP and MySQL. Bef
  <li>Admin username: nababurbd@gmail.com</li>
  <li>Admin pass: An123456</li>
  <li><a href='https://www.youtube.com/watch?v=orFdzDl8RFs&t=54s'>Live video on Youtube</a></li>
- 
 
 </ul>
 
 <h3>Author</h3>
-<span>Nababur Rahaman</span>
+<span>Ardonit Saliji</span>
 <ul>
-  <li><a href='https://github.com/nababur'>Author profile</a></li>
-   <li><a href='https://codeceil.com/'>Website: codeceil.com</a></li>
+  <li><a href='https://github.com/ArdonitSaliji'>Author profile</a></li>
 </ul>
 <h4>Happy Open Source....</h4>
 </div>
-
-
-
-
-
-
