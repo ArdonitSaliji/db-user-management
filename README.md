@@ -38,7 +38,7 @@ So let’s start implementing the user management system with PHP and MySQL. Bef
  <li>Create a database name (db_admin)</li>
  <li>Import database file (db_admin.sql)</li>
  <li>Admin:Info</li>
- <li>Admin username: nababurbd@gmail.com</li>
+ <li>Admin username: ardonit123@gmail.com</li>
  <li>Admin pass: An123456</li>
  <li><a href='https://www.youtube.com/watch?v=orFdzDl8RFs&t=54s'>Live video on Youtube</a></li>
 
